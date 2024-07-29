@@ -12,6 +12,8 @@ The WPF CRUD Form Generator is a tool designed to streamline the development of 
 - **Consistency**: Ensures uniform design and implementation across all CRUD forms.
 - **Scalable**: Easily extendable to accommodate more complex scenarios and additional features.
 
+Initially I will create a simple WPF application to let the user run this application separately and then integrate the generated files into their WPF projects manually. Later on, I am planning on creating a Visual Studio Extension whereby the user would be able to right-click on a class and use a context menu to generate the CRUD forms, which are then automatically added to their project.
+
 ## Getting Started
 
 ### Prerequisites
