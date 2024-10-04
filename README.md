@@ -49,12 +49,7 @@ Initially I will create a simple WPF application to let the user run this applic
 
 The tool uses templates for generating the XAML and code-behind files. You can customize these templates to match your design and functionality requirements.
 
-Currently there are three templates that will be created
-- **ListTemplate.xaml**:
-
-- **EditTemplate.xaml**:
-
-- **AddTemplate.xaml**:
+Currently the plan is to generate one template that will be created to view the list of items including the ability to add/edit and delete the item. Later on tempaltes for master detail items would also be added and any other templates that may be deemed appropriate.
 
 ## Contributing
 
